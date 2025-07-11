@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Happy Places App</string>
+        <string name="edit_place_title">Ort bearbeiten</string>
+        <string name="add_place_title">Neuen Ort hinzufügen</string>
+        <string name="cd_navigate_up">Zurück navigieren</string>
+        <string name="cd_save_place">Ort speichern</string>
+        <string name="textfield_label_title">Titel</string>
+        <string name="textfield_label_description">Beschreibung</string>
+        <string name="textfield_label_date">Datum</string>
+        <string name="textfield_label_location">Standort (z.B. Stadt, Adresse)</string>
+        <string name="label_image">Bild</string>
+        <string name="cd_select_date">Datum auswählen</string>
+        <string name="cd_add_image">Bild hinzufügen</string>
+        <string name="cd_selected_image">Ausgewähltes Bild</string>
+</resources>
